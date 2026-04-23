@@ -1,6 +1,6 @@
 # Finance-Management-System
 A Java-based full-stack web application for managing personal finances, including income/expense tracking, budgeting, and analytics dashboard.
-=======
+
 # 💰 Finance Management — Full Stack (Spring Boot + React)
 
 Personal finance app: register/login, add income & expenses, see summary + chart, delete entries. JWT-secured REST API.
@@ -125,3 +125,4 @@ curl -X POST http://localhost:8080/api/auth/register \
 - Mobile app with React Native sharing the same API
 
 Happy building! 🎉
+
